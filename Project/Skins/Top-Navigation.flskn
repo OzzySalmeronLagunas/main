@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultSkin
-  Version="3"
+  Version="6"
   SkinType="WebHelp2"
   ComponentType="MasterPage"
   TemplateName="Fluid"
@@ -83,7 +83,7 @@
         Name="Header">
         <Properties>
           <Property
-            Name="BackgroundColor">#076685</Property>
+            Name="BackgroundColor">#5D5C61</Property>
         </Properties>
       </Style>
       <Style
@@ -295,6 +295,13 @@
         <Properties>
           <Property
             Name="Color">#076685</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Micro Content Response Button">
+        <Properties>
+          <Property
+            Name="BackgroundRepeat">no-repeat</Property>
         </Properties>
       </Style>
     </Styles>
